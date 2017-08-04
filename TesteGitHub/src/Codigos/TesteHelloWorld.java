@@ -12,9 +12,10 @@ package Codigos;
  */
 public class TesteHelloWorld {
     
-    public static void main(String[] args) {
+  public static void main(String[] args) {
       TesteHelloWorld hi = new TesteHelloWorld();
-      hi.imprimeTexto("Al√¥ Professor!!!");
+      hi.imprimeTexto("Ol· Professor!!!");
+      hi.impremeTexto("Teste 02!");
   }
  
   public void imprimeTexto(String texto){
